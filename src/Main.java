@@ -16,7 +16,7 @@ public class Main {
     public void teamString(Team team) {
         // iterator 써도 되겠다.
         for (int i = 0 ; i < team.getUnits().size() ; i++) {
-
+            // todo
         }
         
     }

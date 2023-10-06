@@ -25,7 +25,7 @@ public class Team {
             System.out.println("팀이 만들어지지 않았습니다.");
         }
 
-        
+        //todo
     }
 
 
