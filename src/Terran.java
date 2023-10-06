@@ -30,9 +30,9 @@ public enum Terran {
         return attack;
     }
     public int getDefense() {
+    
         return defense;
     }
-    
     
 
 }
